@@ -14,7 +14,7 @@ import (
 	"os"
 	"unsafe"
 
-	"github.com/oaiiae/ebur128-go"
+	"github.com/rlibaert/ebur128-go"
 )
 
 func main() {
